@@ -2,6 +2,10 @@
 
 A real-time dual-mode gesture-controlled application using Python, OpenCV, and MediaPipe. 
 
+⚠️ PROJECT STATUS: UNDER CONSTRUCTION > This project is actively being developed and updated. Features, gestures, and setup steps are subject to change. Contributions and feedback are welcome!
+
+A real-time, dual-mode gesture-controlled application built with Python, OpenCV, and MediaPipe. This application allows users to interact with their system seamlessly through hand gestures captured via webcam.
+
 ## Setup Instructions
 1. Run setup:
    - Windows: `setup.bat`
@@ -29,3 +33,5 @@ A real-time dual-mode gesture-controlled application using Python, OpenCV, and M
 | PAINT  | Erase         | All Fingers `[1,1,1,1,1]`       | Acts as an eraser. |
 | PAINT  | Clear Canvas  | Pinky `[0,0,0,0,1]`             | Clears all drawings. |
 | VOLUME | Adjust Vol    | Thumb+Index `[1,1,0,0,0]`       | Pinch to change volume. |
+
+<img width="1596" height="822" alt="image" src="https://github.com/user-attachments/assets/85caa6b9-344b-4c6b-bc33-9a5c69bd6657" />
