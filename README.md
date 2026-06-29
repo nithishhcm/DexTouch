@@ -1,5 +1,8 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Gesture_Control-orange)
+![Real-Time](https://img.shields.io/badge/Real--Time-Touchless-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
 # Gesture-Controlled Interface
 
 A real-time dual-mode gesture-controlled application using Python, OpenCV, and MediaPipe. 
